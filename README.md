@@ -14,9 +14,7 @@ online_shopping_analysis/
 │   ├── plotter.py                 # Visualization scripts
 │   ├── dataframe_info.py          # EDA utility methods
 │   └── main.py                    # Main script to run the project
-├── tests/                         # Unit tests for your classes and methods
-│   └── test_db_utils.py           # Test cases for db_utils.py
 ├── .gitignore                     # Ignore credentials and sensitive files
 ├── README.md                      # Project documentation
 ├── requirements.txt               # List of Python dependencies
-└── LICENSE                        # Open-source license
+
